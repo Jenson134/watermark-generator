@@ -18,3 +18,6 @@ UI designed to help navigate the program in the correct order.
 
 ## requirements.txt included
 pip install -r requirements.txt
+
+## License
+MIT License
